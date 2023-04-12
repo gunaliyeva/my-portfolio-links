@@ -1,7 +1,5 @@
 # my-portfolio-links
 
-# real completed project:
+# real completed projects:
 # https://dastanimport.az/
-
-# real completed project:
 # http://codeteknik.com/
